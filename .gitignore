@@ -1,2 +1,4 @@
 *.tif
 *.zip
+*.h5
+tmp/
