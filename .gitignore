@@ -1,5 +1,7 @@
 *.tif
-kaggle/input/
+/kaggle/input/*
 *.h5
-kaggle/tmp/
+/kaggle/tmp/
 *.zip
+*.tiff
+*.bz2
