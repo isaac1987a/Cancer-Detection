@@ -2,4 +2,4 @@
 kaggle/input/
 *.h5
 kaggle/tmp/
-
+*.zip
